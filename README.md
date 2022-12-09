@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @echoWzZ
 - 👀 I’m interested in bringing Software Engineering into the medical section.
-- 🌱 I’m currently learning Python/Java
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on different types of projects.
 - 📫 How to reach me instagram.com/andreibende28
 
