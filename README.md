@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @echoWzZ
-- 👀 I’m interested in bringing Software Engineering into the medical section.
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m Andrei
+- 👀 I’m interested in Data Science/
+- 🌱 I’m currently learning Python and all its perks for Machine Learning and Data Science related stuff.
 - 💞️ I’m looking to collaborate on different types of projects.
 - 📫 How to reach me instagram.com/andreibende28
 
